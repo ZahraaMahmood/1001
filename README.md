@@ -13,10 +13,10 @@ A simple RESTful API for managing Todos✨
    git clone <repository-url>
 2. Install dependencies:
 To install the dependencies, use the command
-` npm install`
+`npm install`
 
 3. Run the project
-   Using the command: ``` npm run dev```
+   Using the command: ```sh npm run dev```
 
 
 ## API Endpoints

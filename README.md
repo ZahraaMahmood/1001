@@ -13,9 +13,8 @@ A simple RESTful API for managing Todos✨
    git clone <repository-url>
 2. Install dependencies:
 To install the dependencies, use the command
-$ npm install
-![copy](https://img.icons8.com/material-outlined/24/000000/copy.png)
+`$ npm install`
 
 
 4. Run the project
-   Using command `npm run dev`
+   Using command `$ npm run dev`

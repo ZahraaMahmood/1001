@@ -16,7 +16,7 @@ To install the dependencies, use the command
 ` npm install`
 
 3. Run the project
-   Using the command: ` npm run dev`
+   Using the command: ``` npm run dev```
 
 
 ## API Endpoints
